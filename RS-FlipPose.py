@@ -1,6 +1,7 @@
 from maya import cmds
 import copy, re
 
+#DEV: Rostislav S.
 
 def getObjAttrs(objName):
     objData = {
